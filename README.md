@@ -9,3 +9,5 @@ Adapun beberapa hal yang akan saya jelaskan di antaranya:
 5. Menjalankan analisis multivariat untuk karakterisasi produk berdasarkan peta persepsi
 6. Membuat interpretasi dan simpulan dari analisis data riset sensoris
 7. Komparasi prosedur analisis sensoris menggunakan paket konvensional versus menggunakan paket senshubr
+
+Analisis data pada project ini bertujuan untuk mempelajari karakteristik sensoris produk cokelat komersial. Riset produk cokelat tersebut dilakukan dengan menggunakan metode Quantitative Descriptive Analysis (QDA).
